@@ -54,7 +54,7 @@
 <h2  id='1'>1. 整体风格和个人页面</h2>
 *整体采用的是Material Design风格，看起来好看一点*
 
-![整体风格.gif](http://upload-images.jianshu.io/upload_images/4043475-eb1932393eedabec.gif?imageMogr2/auto-orient/strip)
+![整体风格.gif](http://upload-images.jianshu.io/upload_images/3983615-cc45e083787c2dc2.gif?imageMogr2/auto-orient/strip)
 >如果觉得还行，请给个star吧
 
 <h2  id='2'>2. 跳转界面</h2>
